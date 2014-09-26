@@ -1,0 +1,10 @@
+{
+    "name": "<%= appName %>",
+    "description": "<%= appName %>: <%= appDescription %>",
+    "version": "<%= appVersion %>",
+    "url": "https://github.com/<%= userName %>/<%= appNameSlug %>",
+    "options": {
+        "outdir": "./docs",
+        "paths": "./lib"
+    }
+}
